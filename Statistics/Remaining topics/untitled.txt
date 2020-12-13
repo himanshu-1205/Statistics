@@ -1,2 +1,3 @@
 Quantile quantile plot and quantile function
+homoscaditicity
 regression analysis
